@@ -1,6 +1,0 @@
-1) Download and install OBSE:  https://obse.silverlock.org/
-
-2) Use your preferred mod manager or manually drag and drop the file
-in your "Data" folder
-
-3) Activate it through a mod manager or the game launcher
